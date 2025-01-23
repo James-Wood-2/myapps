@@ -66,15 +66,21 @@ function Controller(settings = {}) {
             type: "game",
         },
         {
-            label: "Suuuudoku",
-            icon: "./images/sudoku_icon.png",
-            url: "https://miyaichi-learning.com/sudoku",
+            label: "Space Battle",
+            icon: "./images/space_battle_icon.png",
+            url: "https://miyaichi-learning.com/asteroids",
             type: "game",
         },
         {
             label: "Woodle",
             icon: "./images/woodle_icon.png",
             url: "https://miyaichi-learning.com/woodle",
+            type: "game",
+        },
+        {
+            label: "Senility Checker",
+            icon: "./images/memory_game_icon.png",
+            url: "https://miyaichi-learning.com/memory",
             type: "game",
         },
     ];
